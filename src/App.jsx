@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react'
-import { Board } from "./board.jsx"
+import { Board } from "./Board.jsx"
 import './App.css'
 
 function shuffle(array) {
